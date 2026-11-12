@@ -2,6 +2,6 @@
 simple test bed to deploy GCP
 > about the app
 
-check out my app: http://34.121.152.38
+check out my app: https://parker.barrycumbie.com
 
 by [parker] (https://github.com/pbell0330)
